@@ -7,7 +7,7 @@ int main(){
     int a= 10;
     int b= 5;
     int y= 21;
-    int* c= &a ;
+    int* c= &a;
 
 
 cout<<"Alamat Memori:" << c <<endl;
