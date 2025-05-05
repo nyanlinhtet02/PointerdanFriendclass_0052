@@ -6,8 +6,8 @@ int main(){
     //dereference
     int a= 10;
     int b= 5;
-    int y= 20;
-    int* c= &a;
+    int y= 21;
+    int* c= &a ;
 
 
 cout<<"Alamat Memori:" << c <<endl;
